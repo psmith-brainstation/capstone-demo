@@ -1,8 +1,8 @@
-## Capstone Project Title
+## Paul's Awesome Capstone
 =========================
 
-### Project Overview
-
+### Project Overview  
+TBD, but it's going to be amazing!
 ... 
 ...
 ...
